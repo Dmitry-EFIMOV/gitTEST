@@ -1,0 +1,1 @@
+ INSERT INTO billing ( 'date') VALUES (  CURDATE(2022-02-19))

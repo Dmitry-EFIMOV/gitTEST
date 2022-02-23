@@ -1,0 +1,1 @@
+SELECT * FROM billing WHERE HOUR(date) > SECOND(date)
